@@ -1,4 +1,4 @@
-# **Hi there 👋**   
+# **Hi there, I'm Robin 👋**   
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robinlee02-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinlee02/)
 [![Gmail](https://img.shields.io/badge/Email-sl5035@columbia.edu-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:sl5035@columbia.edu?subject=Hey!)
