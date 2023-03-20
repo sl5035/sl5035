@@ -116,12 +116,3 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Robin Lee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=sl5035&bg_color=1a1b26&color=7aa2f7&line=73daca&point=c0caf5&hide_border=true" /></a>
-
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-  <!--END_SECTION:activity-->
-
-</details>
