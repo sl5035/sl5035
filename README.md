@@ -35,10 +35,10 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/sl5035/Space-Debris-Reentry"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=Space-Debris-Reentry&theme=tokyonight&hide_border=true" alt="Space-Debris-Reentry"></a>
-    <a href="https://github.com/sl5035/3D-HisSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=3D-HisSite&theme=tokyonight&hide_border=true" alt="Space-Debris-Reentry"></a>
-    <a href="https://github.com/sl5035/CHECKMATE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=CHECKMATE&theme=tokyonight&hide_border=true" alt="Space-Debris-Reentry"></a>
-    <a href="https://github.com/sl5035/Camus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=Camus&theme=tokyonight&hide_border=true" alt="Space-Debris-Reentry"></a>
-    <a href="https://github.com/sl5035/Developer-Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=Developer-Portfolio&theme=tokyonight&hide_border=true" alt="Space-Debris-Reentry"></a>
+    <a href="https://github.com/sl5035/3D-HisSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=3D-HisSite&theme=tokyonight&hide_border=true" alt="3D-HisSite"></a>
+    <a href="https://github.com/sl5035/CHECKMATE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=CHECKMATE&theme=tokyonight&hide_border=true" alt="CHECKMATE"></a>
+    <a href="https://github.com/sl5035/Camus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=Camus&theme=tokyonight&hide_border=true" alt="Camus"></a>
+    <a href="https://github.com/sl5035/Developer-Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sl5035&repo=Developer-Portfolio&theme=tokyonight&hide_border=true" alt="Developer-Portfolio"></a>
   </p>
 
   <a href="https://github.com/sl5035?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
