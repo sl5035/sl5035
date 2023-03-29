@@ -62,7 +62,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,cpp,dart,haskell,html,css,bash" />
+      <img src="https://skillicons.dev/icons?i=python,java,ts,js,graphql, go,haskell,latex,md" />
     </a>
   </p>
   
@@ -70,7 +70,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,nestjs,nodejs,express,django,flask,flutter,react,redux,svelte,tailwind,graphql" />
+      <img src="https://skillicons.dev/icons?i=tensorflow,nestjs,nodejs,express,django,flask,svelte" />
     </a>
   </p>
 
@@ -78,7 +78,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=gcp,heroku,mongodb,postgres,sqlite,vercel" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,vercel" />
     </a>
   </p>
 
@@ -86,7 +86,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apollo,docker,figma,git,github,gitlab,latex,md,vim,vite,vscode" />
+      <img src="https://skillicons.dev/icons?i=apollo,docker,git,github,gitlab,vim,vite" />
     </a>
   </p>
 </details>
